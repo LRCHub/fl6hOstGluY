@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "American Girls",
+  "base_artist": "Harry Styles",
+  "createdAt": "2026-03-08T18:32:56.447359Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Last of the American Girls",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/01_Last_of_the_American_Girls_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kelly Watch the Stars (American Girls Remix by Phoenix)",
+      "artist": "Air",
+      "has_synced": false,
+      "path": "select/02_Kelly_Watch_the_Stars_(American_Girls_Remix_by_Phoenix)_Air.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kelly Watch the Stars! (American Girls Remix)",
+      "artist": "Air",
+      "has_synced": false,
+      "path": "select/03_Kelly_Watch_the_Stars!_(American_Girls_Remix)_Air.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Last Of The American Girls",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/04_Last_Of_The_American_Girls_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Last Of The American Girls",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/05_Last_Of_The_American_Girls_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Last Of The American Girls (Album Version)",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/06_Last_Of_The_American_Girls_(Album_Version)_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "American Girls",
+      "artist": "Triumph",
+      "has_synced": false,
+      "path": "select/07_American_Girls_Triumph.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "All American Girls",
+      "artist": "Sister Sledge",
+      "has_synced": false,
+      "path": "select/08_All_American_Girls_Sister_Sledge.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "American Girls",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/09_American_Girls_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "American Girls",
+      "artist": "Counting Crows",
+      "has_synced": true,
+      "path": "select/10_American_Girls_Counting_Crows.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "American Girls",
+      "artist": "Counting Crows",
+      "has_synced": true,
+      "path": "select/11_American_Girls_Counting_Crows.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "American Girls",
+      "artist": "Rick Springfield",
+      "has_synced": false,
+      "path": "select/12_American_Girls_Rick_Springfield.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "American Girls",
+      "artist": "Jeremy Fisher",
+      "has_synced": false,
+      "path": "select/13_American_Girls_Jeremy_Fisher.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Last of American Girls",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/14_Last_of_American_Girls_Green_Day.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "American Girls",
+      "artist": "Harry Styles",
+      "has_synced": false,
+      "path": "select/pl_01_American_Girls_Harry_Styles.txt"
+    }
+  ]
+}
